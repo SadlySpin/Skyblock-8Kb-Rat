@@ -1,5 +1,8 @@
 # Skyblock-8Kb-Rat
 -------------------
+Small 8kb rat that sends all information to a discord webhook.
+
+
 
 Info:
 A small skyblock rat that I used to use back in 2021, descently small and can be imbeded into another mod without much issues. The rat will grab ssid and discord info. The discord info is grabbed from browsers suck as: Chrome, Edge, Opera, Brave, and the appdata on the pc.
